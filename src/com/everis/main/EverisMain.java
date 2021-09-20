@@ -15,7 +15,7 @@ public class EverisMain {
 	 */
 	public static void main(String[] args) {
 		
-		System.out.println("Hola a tod@s");
+		System.out.println("Hola gente");
 		
 		/* INTRODUCIR NUEVOS SALUDOS */
 
